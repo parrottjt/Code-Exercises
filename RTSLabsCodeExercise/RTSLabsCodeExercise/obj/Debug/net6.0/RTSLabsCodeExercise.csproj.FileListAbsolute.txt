@@ -1,0 +1,15 @@
+C:\Users\jonpa\Documents\GitHub\programming-portfolio\Learning\RTSLabsCodeExercise\RTSLabsCodeExercise\bin\Debug\net6.0\RTSLabsCodeExercise.exe
+C:\Users\jonpa\Documents\GitHub\programming-portfolio\Learning\RTSLabsCodeExercise\RTSLabsCodeExercise\bin\Debug\net6.0\RTSLabsCodeExercise.deps.json
+C:\Users\jonpa\Documents\GitHub\programming-portfolio\Learning\RTSLabsCodeExercise\RTSLabsCodeExercise\bin\Debug\net6.0\RTSLabsCodeExercise.runtimeconfig.json
+C:\Users\jonpa\Documents\GitHub\programming-portfolio\Learning\RTSLabsCodeExercise\RTSLabsCodeExercise\bin\Debug\net6.0\RTSLabsCodeExercise.dll
+C:\Users\jonpa\Documents\GitHub\programming-portfolio\Learning\RTSLabsCodeExercise\RTSLabsCodeExercise\bin\Debug\net6.0\RTSLabsCodeExercise.pdb
+C:\Users\jonpa\Documents\GitHub\programming-portfolio\Learning\RTSLabsCodeExercise\RTSLabsCodeExercise\obj\Debug\net6.0\RTSLabsCodeExercise.csproj.AssemblyReference.cache
+C:\Users\jonpa\Documents\GitHub\programming-portfolio\Learning\RTSLabsCodeExercise\RTSLabsCodeExercise\obj\Debug\net6.0\RTSLabsCodeExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonpa\Documents\GitHub\programming-portfolio\Learning\RTSLabsCodeExercise\RTSLabsCodeExercise\obj\Debug\net6.0\RTSLabsCodeExercise.AssemblyInfoInputs.cache
+C:\Users\jonpa\Documents\GitHub\programming-portfolio\Learning\RTSLabsCodeExercise\RTSLabsCodeExercise\obj\Debug\net6.0\RTSLabsCodeExercise.AssemblyInfo.cs
+C:\Users\jonpa\Documents\GitHub\programming-portfolio\Learning\RTSLabsCodeExercise\RTSLabsCodeExercise\obj\Debug\net6.0\RTSLabsCodeExercise.csproj.CoreCompileInputs.cache
+C:\Users\jonpa\Documents\GitHub\programming-portfolio\Learning\RTSLabsCodeExercise\RTSLabsCodeExercise\obj\Debug\net6.0\RTSLabsCodeExercise.dll
+C:\Users\jonpa\Documents\GitHub\programming-portfolio\Learning\RTSLabsCodeExercise\RTSLabsCodeExercise\obj\Debug\net6.0\refint\RTSLabsCodeExercise.dll
+C:\Users\jonpa\Documents\GitHub\programming-portfolio\Learning\RTSLabsCodeExercise\RTSLabsCodeExercise\obj\Debug\net6.0\RTSLabsCodeExercise.pdb
+C:\Users\jonpa\Documents\GitHub\programming-portfolio\Learning\RTSLabsCodeExercise\RTSLabsCodeExercise\obj\Debug\net6.0\RTSLabsCodeExercise.genruntimeconfig.cache
+C:\Users\jonpa\Documents\GitHub\programming-portfolio\Learning\RTSLabsCodeExercise\RTSLabsCodeExercise\obj\Debug\net6.0\ref\RTSLabsCodeExercise.dll
